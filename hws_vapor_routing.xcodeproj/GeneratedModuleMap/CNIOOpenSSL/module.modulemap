@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/cory/dev/git/vapor/hws_vapor_routing/.build/checkouts/swift-nio-ssl.git-5707593930304146261/Sources/CNIOOpenSSL/include"
+    export *
+}

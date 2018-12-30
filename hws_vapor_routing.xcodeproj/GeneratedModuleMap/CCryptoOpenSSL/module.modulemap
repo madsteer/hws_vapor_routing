@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/cory/dev/git/vapor/hws_vapor_routing/.build/checkouts/crypto.git-7197794382415214386/Sources/CCryptoOpenSSL/include"
+    export *
+}
